@@ -29,7 +29,7 @@ Welcome to the E-Store project! This is a comprehensive e-commerce platform buil
 Create a `.env` file in the root directory of your project and add the following environment variables:
 
 ```env
-PORT=5000
+PORT=5500
 MONGO_URI=your_mongo_uri
 
 UPSTASH_REDIS_URL=your_redis_url
